@@ -1,14 +1,14 @@
 # Website info
-name: 'Finding The Way Home'
+name: '精益创业'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 # Author's info
-author: 'Casper McFadden'
-username: casper
+author: 'papertiger'
+username: ruibin
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+location: 'Beijing, CHINA'
+url: 'http://ruibin.me'
+image: 'assets/images/thumb.jpg'
 
 # Jykell configuration
 #markdown: redcarpet
