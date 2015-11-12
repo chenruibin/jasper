@@ -5,16 +5,16 @@
    
       <title>biomadeira.github.io/jasper/</title>
    
-   <link>http://biomadeira.github.io/jasper/</link>
+   <link>http://ruibin.me</link>
    <description>A beautiful narrative written with the world's most elegant publishing platform. The story begins here.</description>
    <language>en-uk</language>
-   <managingEditor> Casper McFadden</managingEditor>
+   <managingEditor> papertiger</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Git push</title>
 	  <link>//demo</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>2015-11-12T18:18:00+08:00</pubDate>
 	  <guid>//demo</guid>
 	  <description><![CDATA[
@@ -34,7 +34,7 @@
 	<item>
 	  <title>I Have a Dream</title>
 	  <link>//i-have-a-dream</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1963-08-28T18:18:00+08:00</pubDate>
 	  <guid>//i-have-a-dream</guid>
 	  <description><![CDATA[
@@ -142,7 +142,7 @@
 	<item>
 	  <title>The Purpose of Education</title>
 	  <link>//the-purpose-of-education</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1948-12-12T18:18:00+08:00</pubDate>
 	  <guid>//the-purpose-of-education</guid>
 	  <description><![CDATA[

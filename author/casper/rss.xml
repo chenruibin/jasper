@@ -5,16 +5,16 @@
    
       <title>biomadeira.github.io/jasper/</title>
    
-   <link>http://biomadeira.github.io/jasper/</link>
+   <link>http://ruibin.me</link>
    <description>A beautiful narrative written with the world's most elegant publishing platform. The story begins here.</description>
    <language>en-uk</language>
-   <managingEditor> Casper McFadden</managingEditor>
+   <managingEditor> papertiger</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Git push</title>
 	  <link>//demo</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>2015-11-12T18:18:00+08:00</pubDate>
 	  <guid>//demo</guid>
 	  <description><![CDATA[
@@ -34,7 +34,7 @@
 	<item>
 	  <title>A Full and Comprehensive Style Test</title>
 	  <link>//a-full-and-comprehensive-style-test</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>2014-09-27T18:18:00+08:00</pubDate>
 	  <guid>//a-full-and-comprehensive-style-test</guid>
 	  <description><![CDATA[
@@ -399,7 +399,7 @@ c.draw = function() {
 	<item>
 	  <title>The Businessman & the fisherman</title>
 	  <link>//the-businessman-and-fisherman</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>2014-08-12T18:18:00+08:00</pubDate>
 	  <guid>//the-businessman-and-fisherman</guid>
 	  <description><![CDATA[
@@ -439,7 +439,7 @@ c.draw = function() {
 	<item>
 	  <title>I Have a Dream</title>
 	  <link>//i-have-a-dream</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1963-08-28T18:18:00+08:00</pubDate>
 	  <guid>//i-have-a-dream</guid>
 	  <description><![CDATA[
@@ -547,7 +547,7 @@ c.draw = function() {
 	<item>
 	  <title>The Purpose of Education</title>
 	  <link>//the-purpose-of-education</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1948-12-12T18:18:00+08:00</pubDate>
 	  <guid>//the-purpose-of-education</guid>
 	  <description><![CDATA[
@@ -575,7 +575,7 @@ c.draw = function() {
 	<item>
 	  <title>Out to Sea</title>
 	  <link>//out-to-sea</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1912-07-24T18:18:00+08:00</pubDate>
 	  <guid>//out-to-sea</guid>
 	  <description><![CDATA[
@@ -665,7 +665,7 @@ c.draw = function() {
 	<item>
 	  <title>Looking-Glass house</title>
 	  <link>//looking-glass-house</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1871-03-18T18:18:00+08:00</pubDate>
 	  <guid>//looking-glass-house</guid>
 	  <description><![CDATA[
@@ -708,7 +708,7 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
 	<item>
 	  <title>Down The Rabbit Hole</title>
 	  <link>//down-the-rabbit-hole</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1865-11-26T18:18:00+08:00</pubDate>
 	  <guid>//down-the-rabbit-hole</guid>
 	  <description><![CDATA[
@@ -772,7 +772,7 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
 	<item>
 	  <title>Gettysburg Address</title>
 	  <link>//gettysburg-address</link>
-	  <author>Casper McFadden</author>
+	  <author>papertiger</author>
 	  <pubDate>1863-11-19T18:18:00+08:00</pubDate>
 	  <guid>//gettysburg-address</guid>
 	  <description><![CDATA[
