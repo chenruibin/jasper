@@ -12,15 +12,13 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Markdown test</title>
+	  <title>Git push</title>
 	  <link>/jasper//demo</link>
 	  <author>Casper McFadden</author>
 	  <pubDate>2015-11-12T18:18:00+08:00</pubDate>
 	  <guid>/jasper//demo</guid>
 	  <description><![CDATA[
 	     <p>This is just test</p>
-
-<h2 id="test">Test</h2>
 
 <ul>
 <li>a</li>
