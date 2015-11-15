@@ -1,0 +1,23 @@
+{
+  "name": "jasper",
+  "version": "1.0.0",
+  "description": "This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenruibin/jasper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenruibin/jasper/issues"
+  },
+  "homepage": "https://github.com/chenruibin/jasper",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.4.0"
+  }
+}
