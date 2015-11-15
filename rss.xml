@@ -12,7 +12,7 @@
     <item>
       <title>Git push</title>
       <link>http://ruibin.me/demo</link>
-      <description>Gulp test
+      <description>使用gulp-gh-deploy发布博客
 
 </description>
       <pubDate>Thu, 12 Nov 2015 18:18:00 +0800</pubDate>
